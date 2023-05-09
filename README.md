@@ -3,7 +3,7 @@
 Bibliotecas usadas:
 shapely.geometry ; pandas ; tqdm ; geopandas
 
-Funções usadas:
+Funções aprendidas:
 import Point ; import LineString ; import Polygon ; import box ; import MultiPoint ; -->
 -->import drive ; import MultiLineString
 
